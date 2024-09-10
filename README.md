@@ -9,4 +9,6 @@ Improved RAG Architecture from my previous project, such as
 
 There are other method of RAG I really interested in like GraphRAG.
 
+P.S.
+- If you don't want to host the db in local, you can use services like Pinecone or MongoDB Atlas and create a cluster
 Skibidi
