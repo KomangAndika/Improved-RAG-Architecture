@@ -12,3 +12,5 @@ There are other method of RAG I really interested in like GraphRAG.
 P.S.
 - If you don't want to host the db in local, you can use services like Pinecone or MongoDB Atlas and create a cluster
 Skibidi
+
+Keyword: RAG, RAGAS, FAISS, Vector Database, LangChain, Llama, LLM, VectorDB
