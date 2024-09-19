@@ -12,6 +12,7 @@ There are other method of RAG I really interested in like GraphRAG.
 
 
 P.S.
+- My semantic chunker run verrry slow, i advise you just use normal text splitter with fixed size and overlap for faster performance
 - If you don't want to host the db in local, you can use services like Pinecone or MongoDB Atlas and create a cluster
 - I advise you to use other model for the inference and rewriter, find the best one for your usecase
 Skibidi
