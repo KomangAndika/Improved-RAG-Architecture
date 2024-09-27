@@ -1,0 +1,14 @@
+# Ignore virtual environment
+improved-rag/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Ignore other project-specific files
+*.log
+*.sqlite3
