@@ -1,5 +1,6 @@
 # Ignore virtual environment
 improved-rag/
+.env
 
 # Ignore Python cache files
 __pycache__/
