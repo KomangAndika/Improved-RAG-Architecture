@@ -7,7 +7,7 @@ class MyClass:
     def greet(self):
         return f"Hello, {self.name}!"
 
-# Instantiate the class and call the greet method
+# This is just for testing purpose (i never tried using python class)
 if __name__ == "__main__":
     person = MyClass("John") 
     print(person.greet())      
