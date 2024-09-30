@@ -9,5 +9,5 @@ class MyClass:
 
 # Instantiate the class and call the greet method
 if __name__ == "__main__":
-    person = MyClass("John")  # Create an instance of MyClass
-    print(person.greet())      # Call greet and print the result
+    person = MyClass("John") 
+    print(person.greet())      
